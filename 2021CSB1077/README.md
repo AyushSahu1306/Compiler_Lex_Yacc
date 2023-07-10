@@ -17,4 +17,3 @@ BMM_Scanner.l: The Lex scanner specification file.
 CorrectSample.bmm: Contains correct code for B-- language.
 InCorrectSample.bmm: Contains incorrect code for B-- language.
 
-Small Error - Not include ; at the end of print statement
